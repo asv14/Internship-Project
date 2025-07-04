@@ -3,4 +3,4 @@ Developed a real time embedded AI system combining OCR(Optical Character Recogni
 
 Below this is the internship certificate
 
-![Internship Certificate](https://github.com/your-username/your-repo-name/blob/main/path/to/image.png?raw=true)
+![Internship Certificate](https://github.com/asv14/Internship-Project/blob/main/Asvdheeraj.jpg)
